@@ -1,0 +1,14 @@
+Hello
+This is testing
+~S~Setting = One
+~T~dict = One,Two,Three,Four
+~B~boolean = True
+~T~classNames = Positive,Negative
+~I~batchSize = 5
+~I~epochs = 100
+~S~imageFolder = TestingScreenshot
+
+
+
+
+This is the end of the file
